@@ -384,5 +384,5 @@ plot(weekendMean$interval, weekendMean$steps, type="l",
      col="darkblue", lwd=1.5, ylim=c(0, 230))
 ```
 
-![plot of chunk unnamed-chunk-23](figure/unnamed-chunk-23-1.png) 
+![plot of chunk unnamed-chunk-23](figure/unnamed-chunk-23-1.png)
  
